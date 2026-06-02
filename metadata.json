@@ -1,0 +1,6 @@
+{
+  "name": "Samsung CRM Dashboard",
+  "description": "An executive ShopVibe-inspired Samsung CRM dashboard containing sales, product, and customer insights with CSV upload capability, interactive charts, and dynamic filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
